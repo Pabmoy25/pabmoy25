@@ -1,16 +1,29 @@
-## Hi there 👋
+<div>
+  <h1>Hola, Soy Pablo Moyano 👨‍💻</h1>
+</div>
 
-<!--
-**Pabmoy25/pabmoy25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Bienvenido a Mi perfil de GitHub
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skills
+
+![Node.js](https://img.icons8.com/color/50/000000/nodejs.png)  ![Express](https://img.icons8.com/50/000000/express-js.png)  ![MongoDB](https://img.icons8.com/color/50/000000/mongodb.png)
+![HTML5](https://img.icons8.com/color/50/000000/html-5.png)  ![CSS3](https://img.icons8.com/color/50/000000/css3.png)  ![Tailwind](https://img.icons8.com/color/48/tailwindcss.png)  ![JavaScript](https://img.icons8.com/color/50/000000/javascript.png)  ![React](https://img.icons8.com/color/50/000000/react-native.png)  ![npm](https://img.icons8.com/color/50/000000/npm.png)
+## Featured Projects
+
+### Project 1: 
+
+### Project 2: 
+
+### Project 3: 
+
+### Project 4: 
+
+### Project 5:
+
+## Contact
+
+- **Email:** pabmoy1725@gmail.com
+- **LinkedIn:** [PabloMoyano](www.linkedin.com/in/pablo-francisco-moyano-889b6714b)
+
+Gracias por visitar mi porfolio! 🤙
