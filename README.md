@@ -16,8 +16,6 @@ Con todo esto, tuve la posibilidad de ser Scrum Master y poder dirigir equipos e
 
 ### Project 2: [Blog de recetas-Rolling Cooking](https://github.com/Pabmoy25/BlogRecetas-Frontend.git)
 
-### Project 3: [Blog de recetas-Rolling Cooking](https://github.com/Pabmoy25/BlogRecetas-Frontend.git)
-
 ## Contact
 
 - **Email:** pabmoy1725@gmail.com
