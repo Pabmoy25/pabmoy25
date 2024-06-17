@@ -4,7 +4,7 @@
 
 ## Bienvenido a Mi perfil de GitHub
 En mi camino como Desarrollador Web - Full Stack, además de adquirir las habilidades tecnicas, librerías y software necesarios para el desarrollo de paginas Web, he ganado experiencia en la ejecución de proyectos. Utilizando Github como plataforma de almacenamiento y colaboración grupal, metodologías agiles como la Scrum y la herramienta Trello que nos permite organizar de manera practica las tareas de un proyecto especifico. 
-Con todo esto, tuve la posibilidad de ser Scrum Master y poder dirigir equipos en diferentes proyectos, ganar experiencias de gran valor que nos desafiaron como grupo a superar los obstáculos, que solo se pueden palpar en la ejecución real de un proyecto colaborativo.
+Con todo esto, tuve la posibilidad de ser Scrum Master y poder dirigir equipos en diferentes proyectos, ganamos experiencias de gran valor que nos desafiaron como grupo a superar los obstáculos y que solo se pueden palpar en la ejecución real de un proyecto colaborativo.
 
 ## My Skills
 
